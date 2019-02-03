@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
-import { DynamicControl } from '../dynamic-form/models/dynamic-control';
+
+import { DynamicControl } from '../../models/dynamic-control';
 
 @Component({
   selector: 'app-button',
